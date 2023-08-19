@@ -4,7 +4,7 @@ Neste commit, criamos as tabelas iniciais para o nosso banco de dados. Definimos
 
 ---
 
-# 2 - Operações CRUD Insert e SELECT.
+# 2 - Operações CRUD Insert e SELECT. 
 
 Aqui, você encontrará exemplos de como realizar operações CRUD (Create, Read, Update, Delete) com foco nas operações de inserção (INSERT) e seleção (SELECT). Isso inclui inserir novos dados nas tabelas criadas anteriormente e fazer consultas para recuperar informações específicas.
 
