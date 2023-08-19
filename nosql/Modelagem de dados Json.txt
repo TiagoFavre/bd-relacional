@@ -1,0 +1,22 @@
+{
+ "_id": 1,
+ "nome": "Tiago Favre",
+ "data_nascimento": "1990-11-05",
+ "email": "tiagom.favre@gmail.com",
+ "endereco": "Av Americo Cardozo, 2223...",
+ "enderecos": [{
+ "logradouro": "Av Americo Cardozo...",
+ "numero": 2223,
+ "bairro": "Nova Cidade",
+ "cidade": Itaborai
+
+}],
+ "interesses": ["games", "series"],
+ "reservas": [
+ 1,2]  
+    
+}
+
+
+
+
